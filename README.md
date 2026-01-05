@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4342cc60-98ea-4c97-bd58-2d59e8f56dbb" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fb74f74d-fdfa-44e3-a015-499541faf633" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6792e759-220f-49b9-802b-575829d2b17f" /># Multiple Disease Prediction System
 
 This project is a machine learning–based web application that predicts the risk of multiple diseases using patient health data. The application is built using Python and Streamlit and supports prediction for Diabetes, Heart Disease, and Parkinson’s Disease.
 
